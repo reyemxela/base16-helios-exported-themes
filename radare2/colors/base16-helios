@@ -1,0 +1,60 @@
+# Base16 Helios
+# Author: Alex Meyer (https://github.com/reyemxela)
+
+ec prompt rgb:d72638
+ec swi rgb:d72638
+
+ec b0x00 rgb:434749
+ec b0x7f rgb:565b5e
+ec b0xff rgb:565b5e
+ec btext rgb:1e8bac
+ec other rgb:d5d5d5
+
+ec push rgb:be4264
+ec pop rgb:be4264
+
+ec bin rgb:1e8bac
+ec math rgb:1e8bac
+ec mov rgb:1e8bac
+ec call rgb:f19d1a
+ec cjmp rgb:1ba595
+ec jmp rgb:1ba595
+ec cmp rgb:1e8bac
+ec ret rgb:1e8bac
+ec nop rgb:434749
+
+ec reg rgb:d72638
+ec creg rgb:eb8413
+
+ec num rgb:eb8413
+ec fline rgb:f19d1a
+ec fname rgb:f19d1a
+ec flow rgb:cdcdcd
+ec flow2 rgb:cdcdcd
+ec label rgb:88b92d
+ec offset rgb:be4264
+ec trap rgb:88b92d
+ec flag rgb:be4264
+ec args rgb:88b92d
+ec invalid rgb:d72638
+ec help rgb:88b92d
+
+ec input rgb:d5d5d5
+ec comment rgb:565b5e
+ec usrcmt rgb:d5d5d5
+
+ec ai.read rgb:eb8413
+ec ai.write rgb:f19d1a
+ec ai.exec rgb:f19d1a
+ec ai.seq rgb:f19d1a
+ec ai.ascii rgb:88b92d
+
+ec graph.true rgb:88b92d
+ec graph.trufae rgb:88b92d
+ec graph.false rgb:d72638
+ec graph.current rgb:d5d5d5
+ec graph.traced rgb:f19d1a
+ec graph.box rgb:1ba595
+ec graph.box2 rgb:1e8bac
+ec graph.box3 rgb:1e8bac
+ec graph.box4 rgb:1e8bac
