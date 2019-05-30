@@ -82,7 +82,7 @@
         "sideBarTitle.foreground": "#d5d5d5", //5
 
         // Editor groups and tabs
-        "editorGroup.background": "#1d2021", //0
+        "editorGroup.emptyBackground": "#1d2021", //0
         // "editorGroup.border": "#f00",
         "editorGroup.dropBackground": "#4347496f", //2
         "editorGroupHeader.noTabsBackground": "#303335", //1
@@ -221,8 +221,8 @@
         // "statusBar.noFolderBorder": "",
         "statusBarItem.activeBackground": "#565b5e", //3
         "statusBarItem.hoverBackground": "#434749", //2
-        "statusBarItem.prominentBackground": "#f0f",
-        "statusBarItem.prominentHoverBackground": "#f00",
+        "statusBarItem.prominentBackground": "#be4264", //E
+        "statusBarItem.prominentHoverBackground": "#d72638", //8
 
         // Title bar colors (macOS)
         "titleBar.activeBackground": "#1d2021", //0
@@ -241,17 +241,17 @@
         "notificationLink.foreground": "#1e8bac", //D
 
         // Below is no longer supported as of 1.21
-        "notification.background": "#434749", //2
-        "notification.foreground": "#d5d5d5", //5
-        "notification.buttonBackground": "#1e8bac", //D
-        "notification.buttonHoverBackground": "#434749", //2
-        "notification.buttonForeground": "#e5e5e5", //7
-        "notification.infoBackground": "#1ba595", //C
-        "notification.infoForeground": "#e5e5e5", //7
-        "notification.warningBackground": "#f19d1a", //A
-        "notification.warningForeground": "#e5e5e5", //7
-        "notification.errorBackground": "#d72638", //8
-        "notification.errorForeground": "#e5e5e5", //7
+        // "notification.background": "#434749", //2
+        // "notification.foreground": "#d5d5d5", //5
+        // "notification.buttonBackground": "#1e8bac", //D
+        // "notification.buttonHoverBackground": "#434749", //2
+        // "notification.buttonForeground": "#e5e5e5", //7
+        // "notification.infoBackground": "#1ba595", //C
+        // "notification.infoForeground": "#e5e5e5", //7
+        // "notification.warningBackground": "#f19d1a", //A
+        // "notification.warningForeground": "#e5e5e5", //7
+        // "notification.errorBackground": "#d72638", //8
+        // "notification.errorForeground": "#e5e5e5", //7
         // Above is no longer supported as of 1.21
 
         // Extensions
@@ -300,7 +300,7 @@
 
         // Settings editor colors
         "settings.headerForeground": "#d5d5d5", //5
-        "settings.modifiedItemForeground": "#88b92d", //B
+        // "settings.modifiedItemForeground": "#88b92d", //B
         // "settings.inactiveSelectedItemBorder": "",
         "settings.dropdownBackground": "#303335", //1
         "settings.dropdownForeground": "#d5d5d5", //5
@@ -332,15 +332,15 @@
         "textLink.activeForeground": "#1ba595", //C
         "textLink.foreground": "#1e8bac", //D
         "textPreformat.foreground": "#1e8bac", //D
-        "textSeparator.foreground": "#f0f"
+        "textSeparator.foreground": "#be4264" //E
     },
     "tokenColors": [
-        {
-            "settings": {
-                "foreground": "#eeffffff",
-                "background": "#263238ff"
-            }
-        },
+        // {
+        //     "settings": {
+        //         "foreground": "#eeffffff",
+        //         "background": "#263238ff"
+        //     }
+        // },
         {
             "name": "Comment",
             "scope": [
@@ -380,7 +380,7 @@
                 "constant.other.color"
             ],
             "settings": {
-                "foreground": "#0f0"
+                "foreground": "#88b92d" //B
             }
         },
         {
@@ -563,7 +563,7 @@
                 "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
             ],
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#88b92d" //B
             }
         },
@@ -654,7 +654,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#82AAFF"
+                "foreground": "#d72638" //8
             }
         },
         {
@@ -779,7 +779,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#FF5370"
+                "foreground": "#be4264" //E
             }
         },
         {
@@ -897,7 +897,7 @@
                 "text.html.markdown meta.dummy.line-break"
             ],
             "settings": {
-                "foreground": ""
+                "foreground": "#00000000"
             }
         },
         {
@@ -964,7 +964,7 @@
             ],
             "settings": {
                 "fontStyle": "strike",
-                "foreground": ""
+                // "foreground": ""
             }
         },
         {
@@ -973,7 +973,7 @@
                 "markup.quote punctuation.definition.blockquote.markdown"
             ],
             "settings": {
-                "background": "#1ba595", //C
+                // "background": "#1ba595", //C
                 "foreground": "#1ba595" //C
             }
         },
@@ -984,7 +984,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": ""
+                // "foreground": ""
             }
         },
         {
@@ -1048,7 +1048,7 @@
                 "variable.language.fenced.markdown"
             ],
             "settings": {
-                "foreground": "#f0f"
+                "foreground": "#be4264" //E
             }
         },
         {
@@ -1057,7 +1057,7 @@
                 "variable.language.fenced.markdown"
             ],
             "settings": {
-                "foreground": "#f00"
+                "foreground": "#d72638" //8
             }
         },
         {
@@ -1067,7 +1067,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "background": "#00000050",
+                // "background": "#00000050",
                 "foreground": "#1ba595" //C
             }
         },
@@ -1077,7 +1077,7 @@
                 "markup.table"
             ],
             "settings": {
-                "foreground": "#f0f"
+                "foreground": "#be4264" //E
             }
         },
         {
