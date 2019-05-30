@@ -4,9 +4,9 @@
 
 %sh{
     base00='rgb:1d2021'
-    base01='rgb:303335'
-    base02='rgb:434749'
-    base03='rgb:565b5e'
+    base01='rgb:383c3e'
+    base02='rgb:53585b'
+    base03='rgb:6f7579'
     base04='rgb:cdcdcd'
     base05='rgb:d5d5d5'
     base06='rgb:dddddd'

@@ -15,12 +15,12 @@ IDE:
           background: "#1d2021"
           italic: false
         comment: !textFormat
-          color: "#565b5e"
+          color: "#6f7579"
           background: "#1d2021"
           italic: false
         currentLine: !textFormat
           color: "#d5d5d5"
-          background: "#565b5e"
+          background: "#6f7579"
           italic: false
         env-var: !textFormat
           color: "#d72638"
@@ -28,7 +28,7 @@ IDE:
           italic: false
         evaluatedCode: !textFormat
           color: "#d5d5d5"
-          background: "#565b5e"
+          background: "#6f7579"
           italic: false
         keyword: !textFormat
           color: "#be4264"
@@ -36,12 +36,12 @@ IDE:
           bold: true
           italic: false
         lineNumbers: !textFormat
-          color: "#565b5e"
+          color: "#6f7579"
           background: "#1d2021"
           italic: false
         matchingBrackets: !textFormat
           color: "#d5d5d5"
-          background: "#434749"
+          background: "#53585b"
           bold: true
           italic: false
         mismatchedBrackets: !textFormat
@@ -79,11 +79,11 @@ IDE:
           italic: false
         searchResult: !textFormat
           color: "#d5d5d5"
-          background: "#303335"
+          background: "#383c3e"
           italic: false
         selection: !textFormat
           color: "#d5d5d5"
-          background: "#434749"
+          background: "#53585b"
           italic: false
         string: !textFormat
           color: "#88b92d"
@@ -98,6 +98,6 @@ IDE:
           background: "#1d2021"
           italic: false
         whitespace: !textFormat
-          color: "#434749"
+          color: "#53585b"
           background: "#1d2021"
           italic: false

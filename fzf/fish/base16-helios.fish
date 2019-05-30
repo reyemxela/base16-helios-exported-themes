@@ -2,9 +2,9 @@
 # Author: Alex Meyer (https://github.com/reyemxela)
 
 set -l color00 '#1d2021'
-set -l color01 '#303335'
-set -l color02 '#434749'
-set -l color03 '#565b5e'
+set -l color01 '#383c3e'
+set -l color02 '#53585b'
+set -l color03 '#6f7579'
 set -l color04 '#cdcdcd'
 set -l color05 '#d5d5d5'
 set -l color06 '#dddddd'

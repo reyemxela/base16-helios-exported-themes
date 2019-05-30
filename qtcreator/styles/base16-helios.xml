@@ -13,19 +13,19 @@
   <style name="Link"/>
 
   <!-- selection, current line, search, matching brackets -->
-  <style name="Selection" background="#434749"/>
-  <style name="CurrentLine" background="#565b5e"/>
-  <style name="LineNumber" foreground="#565b5e"/>
+  <style name="Selection" background="#53585b"/>
+  <style name="CurrentLine" background="#6f7579"/>
+  <style name="LineNumber" foreground="#6f7579"/>
   <style name="CurrentLineNumber" foreground="#cdcdcd" bold="true"/>
-  <style name="SearchResult" background="#303335"/>
-  <style name="Parentheses" background="#434749" />
+  <style name="SearchResult" background="#383c3e"/>
+  <style name="Parentheses" background="#53585b" />
   <style name="ParenthesesMismatch" background="#be4264" />
 
   <!-- Selection whilst searching in it -->
-  <style name="SearchScope" foreground="#e5e5e5" background="#565b5e"/>
+  <style name="SearchScope" foreground="#e5e5e5" background="#6f7579"/>
 
   <!-- word (symbol) under cursor: background - color of marking frame, foreground - ignored -->
-  <style name="Occurrences" background="#565b5e"/>
+  <style name="Occurrences" background="#6f7579"/>
   <style name="Occurrences.Rename" background="#cdcdcd"/>
   <!-- unused variable: foreground - color of underlining -->
   <style name="Occurrences.Unused" foreground="#eb8413"/>
@@ -56,13 +56,13 @@
   <style name="JsGlobalVar" foreground="#d5d5d5" italic="true"/>
 
   <!-- whitespace -->
-  <style name="VisualWhitespace" foreground="#434749"/>
+  <style name="VisualWhitespace" foreground="#53585b"/>
 
   <!-- comments -->
-  <style name="Comment" foreground="#565b5e"/>
-  <style name="DisabledCode" foreground="#565b5e"/>
-  <style name="Doxygen.Comment" foreground="#565b5e"/>
-  <style name="Doxygen.Tag" foreground="#565b5e"/>
+  <style name="Comment" foreground="#6f7579"/>
+  <style name="DisabledCode" foreground="#6f7579"/>
+  <style name="Doxygen.Comment" foreground="#6f7579"/>
+  <style name="Doxygen.Tag" foreground="#6f7579"/>
 
   <!-- QML -->
   <style name="QmlTypeId" foreground="#be4264"/>
@@ -85,9 +85,9 @@
   <style name="DiffFileLine" foreground="#be4264"/>
   <style name="DiffContextLine" foreground="#1e8bac"/>
   <style name="DiffSourceLine" foreground="#88b92d"/>
-  <style name="DiffSourceChar" foreground="#f19d1a" background="#303335"/>
+  <style name="DiffSourceChar" foreground="#f19d1a" background="#383c3e"/>
   <style name="DiffDestLine" foreground="#88b92d"/>
-  <style name="DiffDestChar" foreground="#f19d1a" background="#303335"/>
+  <style name="DiffDestChar" foreground="#f19d1a" background="#383c3e"/>
 
   <!-- errors, warnings -->
   <style name="Error" underlineColor="#d72638" underlineStyle="SingleUnderline"/>

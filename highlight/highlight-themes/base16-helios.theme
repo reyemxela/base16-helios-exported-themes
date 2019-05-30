@@ -9,11 +9,11 @@ Canvas = { Colour="#1d2021" }
 Number = { Colour="#eb8413" }
 Escape = { Colour="#dddddd" , Italic=true}
 String = { Colour="#88b92d" }
-BlockComment = { Colour="#565b5e" }
+BlockComment = { Colour="#6f7579" }
 StringPreProc = String
 LineComment   = BlockComment
 Operator      = { Colour="#d5d5d5" }
-LineNum      = { Color="#565b5e" }
+LineNum      = { Color="#6f7579" }
 PreProcessor      = { Colour="#c85e0d" }
 Interpolation  = Escape
 

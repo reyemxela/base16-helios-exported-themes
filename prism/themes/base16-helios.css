@@ -55,7 +55,7 @@ pre[class*="language-"] {
 .token.prolog,
 .token.doctype,
 .token.cdata {
-  color: #565b5e;
+  color: #6f7579;
 }
 
 .token.punctuation {
@@ -147,11 +147,11 @@ pre > code.highlight {
  * http://prismjs.com/plugins/line-numbers/
  */
 .line-numbers .line-numbers-rows {
-  border-right-color: #303335;
+  border-right-color: #383c3e;
 }
 
 .line-numbers-rows > span:before {
-  color: #434749;
+  color: #53585b;
 }
 
 /* overrides color-values for the Line Highlight plugin

@@ -13,13 +13,13 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#303335</string>
+		<string>#383c3e</string>
 		<key>divider</key>
-		<string>#303335</string>
+		<string>#383c3e</string>
 		<key>foreground</key>
-		<string>#565b5e</string>
+		<string>#6f7579</string>
 		<key>selectionBackground</key>
-		<string>#434749</string>
+		<string>#53585b</string>
 		<key>selectionForeground</key>
 		<string>#cdcdcd</string>
 	</dict>
@@ -35,11 +35,11 @@
 				<key>foreground</key>
 				<string>#d5d5d5</string>
 				<key>invisibles</key>
-				<string>#565b5e</string>
+				<string>#6f7579</string>
 				<key>lineHighlight</key>
-				<string>#565b5e55</string>
+				<string>#6f757955</string>
 				<key>selection</key>
-				<string>#434749</string>
+				<string>#53585b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#565b5e</string>
+				<string>#6f7579</string>
 			</dict>
 		</dict>
 		<dict>
@@ -419,7 +419,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#434749</string>
+				<string>#53585b</string>
 				<key>foreground</key>
 				<string>#d5d5d5</string>
 			</dict>
@@ -548,7 +548,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#565b5e</string>
+				<string>#6f7579</string>
 				<key>foreground</key>
 				<string>#e5e5e5</string>
 			</dict>

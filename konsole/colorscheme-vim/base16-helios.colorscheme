@@ -8,7 +8,7 @@ Color=29,32,33
 Color=29,32,33
 
 [Color0Intense]
-Color=86,91,94
+Color=111,117,121
 
 [Color1]
 Color=215,38,56
@@ -20,13 +20,13 @@ Color=235,132,19
 Color=136,185,45
 
 [Color2Intense]
-Color=48,51,53
+Color=56,60,62
 
 [Color3]
 Color=241,157,26
 
 [Color3Intense]
-Color=67,71,73
+Color=83,88,91
 
 [Color4]
 Color=30,139,172

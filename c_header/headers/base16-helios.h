@@ -9,9 +9,9 @@
 #define BASE16_COLORS
 
 static const char base00[] = "#1d2021";
-static const char base01[] = "#303335";
-static const char base02[] = "#434749";
-static const char base03[] = "#565b5e";
+static const char base01[] = "#383c3e";
+static const char base02[] = "#53585b";
+static const char base03[] = "#6f7579";
 static const char base04[] = "#cdcdcd";
 static const char base05[] = "#d5d5d5";
 static const char base06[] = "#dddddd";

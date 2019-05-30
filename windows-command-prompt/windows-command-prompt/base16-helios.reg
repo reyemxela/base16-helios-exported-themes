@@ -12,10 +12,10 @@ Windows Registry Editor Version 5.00
 "ColorTable05"=dword:006442be ; base0E
 "ColorTable06"=dword:001384eb ; base09
 "ColorTable07"=dword:00d5d5d5 ; base05
-"ColorTable08"=dword:005e5b56 ; base03
-"ColorTable09"=dword:00353330 ; base01
-"ColorTable10"=dword:00494743 ; base02
-"ColorTable11"=dword:005e5b56 ; base03
+"ColorTable08"=dword:0079756f ; base03
+"ColorTable09"=dword:003e3c38 ; base01
+"ColorTable10"=dword:005b5853 ; base02
+"ColorTable11"=dword:0079756f ; base03
 "ColorTable12"=dword:00cdcdcd ; base04
 "ColorTable13"=dword:00d5d5d5 ; base05
 "ColorTable14"=dword:00dddddd ; base06

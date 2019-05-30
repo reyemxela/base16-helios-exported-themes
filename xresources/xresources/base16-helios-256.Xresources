@@ -2,9 +2,9 @@
 ! Scheme: Alex Meyer (https://github.com/reyemxela)
 
 #define base00 #1d2021
-#define base01 #303335
-#define base02 #434749
-#define base03 #565b5e
+#define base01 #383c3e
+#define base02 #53585b
+#define base03 #6f7579
 #define base04 #cdcdcd
 #define base05 #d5d5d5
 #define base06 #dddddd

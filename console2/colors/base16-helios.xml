@@ -10,7 +10,7 @@
 			<color  id="5" r="190" g="66" b="100"/> <!-- magenta -->
 			<color  id="6" r="235" g="132" b="19"/> <!-- yellow/brown -->
 			<color  id="7" r="205" g="205" b="205"/> <!-- white -->
-			<color  id="8" r="86" g="91" b="94"/> <!-- brblack -->
+			<color  id="8" r="111" g="117" b="121"/> <!-- brblack -->
 			<color  id="9" r="27" g="165" b="149"/> <!-- brblue -->
 			<color id="10" r="241" g="157" b="26"/> <!-- brgreen -->
 			<color id="11" r="27" g="165" b="149"/> <!-- brcyan -->

@@ -26,7 +26,7 @@ Windows Registry Editor Version 5.00
 "Colour6"="29,32,33"
 
 ; ANSI Black Bold
-"Colour7"="86,91,94"
+"Colour7"="111,117,121"
 
 ; ANSI Red
 "Colour8"="215,38,56"
@@ -38,13 +38,13 @@ Windows Registry Editor Version 5.00
 "Colour10"="136,185,45"
 
 ; ANSI Green Bold
-"Colour11"="48,51,53"
+"Colour11"="56,60,62"
 
 ; ANSI Yellow
 "Colour12"="241,157,26"
 
 ; ANSI Yellow Bold
-"Colour13"="67,71,73"
+"Colour13"="83,88,91"
 
 ; ANSI Blue
 "Colour14"="30,139,172"

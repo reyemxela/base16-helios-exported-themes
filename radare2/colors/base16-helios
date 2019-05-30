@@ -4,9 +4,9 @@
 ec prompt rgb:d72638
 ec swi rgb:d72638
 
-ec b0x00 rgb:434749
-ec b0x7f rgb:565b5e
-ec b0xff rgb:565b5e
+ec b0x00 rgb:53585b
+ec b0x7f rgb:6f7579
+ec b0xff rgb:6f7579
 ec btext rgb:1e8bac
 ec other rgb:d5d5d5
 
@@ -21,7 +21,7 @@ ec cjmp rgb:1ba595
 ec jmp rgb:1ba595
 ec cmp rgb:1e8bac
 ec ret rgb:1e8bac
-ec nop rgb:434749
+ec nop rgb:53585b
 
 ec reg rgb:d72638
 ec creg rgb:eb8413
@@ -40,7 +40,7 @@ ec invalid rgb:d72638
 ec help rgb:88b92d
 
 ec input rgb:d5d5d5
-ec comment rgb:565b5e
+ec comment rgb:6f7579
 ec usrcmt rgb:d5d5d5
 
 ec ai.read rgb:eb8413
